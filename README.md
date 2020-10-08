@@ -14,7 +14,7 @@ Kinect version 2 Face HD example. The application tracks a human face and displa
 
 ## Contributors
 * [Vangos Pterneas](http://pterneas.com) from [LightBuzz](http://lightbuzz.com)
-* https://pterneas.com
+* [pterneas](https://pterneas.com)
 
 ## More
 * [Read the tutorial](http://wp.me/p5hxPm-vf)
